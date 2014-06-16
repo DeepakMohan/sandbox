@@ -1,7 +1,7 @@
 package com.deepak.sandbox
 
 /**
- * Scala Hello world!
+ * Scala Hello world! sample
  */
 object HelloWorld {
 
